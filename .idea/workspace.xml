@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d70f8ce-191a-4006-99fd-b1e8845a6535" name="Changes" comment="" />
+    <list default="true" id="9d70f8ce-191a-4006-99fd-b1e8845a6535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/Assembly-CSharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/BurstAotSettings_Android.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/CommonBurstAotSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media nocte misericordiae/media nocte misericordiae.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media nocte misericordiae/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/media nocte misericordiae/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media nocte misericordiae/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/media nocte misericordiae/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +71,11 @@
       <option name="presentableId" value="Default" />
       <updated>1695843837856</updated>
       <workItem from="1695843849526" duration="8000" />
+      <workItem from="1695847243191" duration="25000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
