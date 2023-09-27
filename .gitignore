@@ -1,5 +1,19 @@
+<<<<<<< Updated upstream
 # Godot 4+ specific ignores
 .godot/
+=======
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+>>>>>>> Stashed changes
 
 # Godot-specific ignores
 .import/
